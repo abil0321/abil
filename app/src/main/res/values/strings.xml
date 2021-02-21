@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Belajar Komponen</string>
+
+    <string name="judul_spin">Daftar Makanan</string>
+    <string-array name="list_makanan">
+        <item>Nama Goreng</item>
+        <item>Nama Padang</item>
+        <item>Nama Liwet</item>
+        <item>Nama Kebuli</item>
+        <item>Nama Kucing</item>
+    </string-array>
+</resources>
